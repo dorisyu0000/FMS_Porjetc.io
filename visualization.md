@@ -3,7 +3,8 @@
 **Study One**
 This graph show the published paper in major social science journal which used social media as their research tool.
 
-{{< readfile highlight="html" file="Visualization/accpepted_rate.html" >}}
+{% include_relative publication_year.html %}
+
 ```
 #Publish year orgnize 
 df['Published Month'] = df['Published date'].str[0:3]
