@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Doris' Film and Media Senior Project
 
 You can use the [editor on GitHub](https://github.com/dorisyu0000/FMS_Porjetc.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
@@ -11,27 +11,30 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+**Research Questions**
 
-- Bulleted
-- List
+This study aims to summarize the typical application of social media in social science researches. 
+Inculding data of recent publication with social media involved, and their method, platform, cost and etc. By comparing different platforms, which tools are better for certain kinds of research methodology and topics. Additionally, this research further discussed the advantages and disadvantages of using social media as research tools. 
 
-1. Numbered
-2. List
+---
 
-**Bold** and _Italic_ and `Code` text
+**Description of dataset**
 
-[Link](url) and ![Image](src)
-```
+There data is collected by Doris from Oct 2021 to Nov 2021. All the artical is avaible online. The dataset including article's name, its source, research field, the purpose of study, article Doi, design of the study, social media component (description of the social media data collection method), outcome (eg., the number of participants recruited), data costs/ USD (any financial charges to the researchers for using social media tools), task length/ min. 
+[Row Data](Research_Paper.csv)
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+---
+**General Introduction of Social Science Research Medthod**
+Data Collection: Case study, Survey and Questionnaires, Observation, Available Data, Experiment 
+Data Analysis: Quantitative Analysis, Qualitative Analysis 
+ 
+  
 
-### Jekyll Themes
+Section                | Description
+-----------------------------|------------------------------------------------------------
+[Method]                      | Research Method of this study
+[Descriptive Data](Descriptive)     | Overview of the Data
+[Conlussion & Visualization](Visualization)  | 
+[Discussion](Discussion)| 
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/dorisyu0000/FMS_Porjetc.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+---
