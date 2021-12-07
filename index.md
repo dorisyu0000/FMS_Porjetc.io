@@ -10,12 +10,10 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 
 ```
-
-**Research Questions**
-
 This study aims to summarize the typical application of social media in social science researches. 
-Inculding data of recent publication with social media involved, and their method, platform, cost and etc. By comparing different platforms, which tools are better for certain kinds of research methodology and topics. Additionally, this research further discussed the advantages and disadvantages of using social media as research tools. 
-
+Inculding data of recent publication with social media involved, and their method, platform, cost and etc. 
+By comparing different platforms, which tools are better for certain kinds of research methodology and topics. 
+Additionally, this research further discussed the advantages and disadvantages of using social media as research tools. 
 ```
 ---
 
@@ -25,10 +23,21 @@ There data is collected by Doris from Oct 2021 to Nov 2021. All the artical is a
 [Row Data](Research_Paper.csv)
 
 ---
-**General Introduction of Social Science Research Medthod**
-Data Collection: Case study, Survey and Questionnaires, Observation, Available Data, Experiment 
-Data Analysis: Quantitative Analysis, Qualitative Analysis 
- 
+***General Introduction of Social Science Research Medthod***
+**Data Collection**
+-[Case study] 
+-[Survey] 
+-[Questionnaires]
+-[Observation]
+-[Available Data]
+-[Experiment] 
+**Description of dataset**
+- [Quantitative Analysis]
+- [Qualitative Analysis] 
+```
+*Quantitative Analysis* is numeric data which relies on a statistical model and calculation
+*Quanlitative Analysis* is descriptive, and regards phenomenon which can be observed but not measured
+```
   
 
 Section                | Description
