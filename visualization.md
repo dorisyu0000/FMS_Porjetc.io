@@ -2,6 +2,7 @@
 
 **Study One**
 This graph show the published paper in major social science journal which used social media as their research tool.
+{% include_relative Visualization/accpepted_rate.html %} 
 
 ```
 #Publish year orgnize 
@@ -15,5 +16,3 @@ publication_year =  pd.DataFrame(df['Published Year'].value_counts().reset_index
 publication_year = publication_year.sort_values(["Year"], ascending=True)
 fig_year = px.line(publication_year, x='Year',y='Publication_number', title='Number of Published Research Paper By Year')
 ```
-
-{% include_relative publication_year.html %} 
