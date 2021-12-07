@@ -44,7 +44,7 @@ Section                | Description
 -----------------------------|------------------------------------------------------------
 [Method]                      | Research Method of this study
 [Descriptive Data](Descriptive)     | Overview of the Data
-[Conlussion & Visualization](Visualization)  | 
+[Conlussion & Visualization](visualization.md)  | 
 [Discussion](Discussion)| 
 
 ---
