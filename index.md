@@ -4,18 +4,6 @@ You can use the [editor on GitHub](https://github.com/dorisyu0000/FMS_Porjetc.io
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-**Research Questions**
-
-This study aims to summarize the typical application of social media in social science researches. 
-Inculding data of recent publication with social media involved, and their method, platform, cost and etc. By comparing different platforms, which tools are better for certain kinds of research methodology and topics. Additionally, this research further discussed the advantages and disadvantages of using social media as research tools. 
-
 ---
 
 **Description of dataset**
@@ -38,3 +26,18 @@ Section                | Description
 [Discussion](Discussion)| 
 
 ---
+
+
+### Markdown
+
+Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+
+```markdown
+Syntax highlighted code block
+
+**Research Questions**
+
+This study aims to summarize the typical application of social media in social science researches. 
+Inculding data of recent publication with social media involved, and their method, platform, cost and etc. By comparing different platforms, which tools are better for certain kinds of research methodology and topics. Additionally, this research further discussed the advantages and disadvantages of using social media as research tools. 
+
+
