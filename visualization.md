@@ -14,8 +14,6 @@ df.drop('Published date', axis=1, inplace=True)
 publication_year =  pd.DataFrame(df['Published Year'].value_counts().reset_index().values, columns=["Year", "Publication_number"])
 publication_year = publication_year.sort_values(["Year"], ascending=True)
 fig_year = px.line(publication_year, x='Year',y='Publication_number', title='Number of Published Research Paper By Year')
-fig_year.show()
-pio.write_html(fig_year,"publication_year.html", full_html=False)
 ```
 
-{% include_relative Visualization/publication_year.html %} 
+{% include_relative file:///Users/dorisyu/Documents/GitHub/FMS_Porjetc.io/Visualization/publication_year.html %} 
