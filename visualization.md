@@ -16,4 +16,4 @@ publication_year = publication_year.sort_values(["Year"], ascending=True)
 fig_year = px.line(publication_year, x='Year',y='Publication_number', title='Number of Published Research Paper By Year')
 ```
 
-{% include_relative file:///Users/dorisyu/Documents/GitHub/FMS_Porjetc.io/Visualization/publication_year.html %} 
+{% include_relative publication_year.html %} 
