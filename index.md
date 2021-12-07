@@ -35,8 +35,8 @@ There data is collected by Doris from Oct 2021 to Nov 2021. All the artical is a
 - [Quantitative Analysis]
 - [Qualitative Analysis] 
 ```
-*Quantitative Analysis* is numeric data which relies on a statistical model and calculation
-*Quanlitative Analysis* is descriptive, and regards phenomenon which can be observed but not measured
+Quantitative Analysis is numeric data which relies on a statistical model and calculation
+Quanlitative Analysis is descriptive, and regards phenomenon which can be observed but not measured
 ```
   
 
